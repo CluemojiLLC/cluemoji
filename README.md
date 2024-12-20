@@ -39,7 +39,18 @@ A lightweight and interactive Discord bot where users guess movie titles based o
 4. Run the bot
    ```bash
    Run the bot: Start the bot by running:
+   
+## **About the Project**
+This bot was developed as part of a **Software Development Methodologies** class project at the **University of Debrecen**. The goal was to create a functional, interactive application to demonstrate teamwork, agile practices, and real-world software development methodologies.
 
+---
+
+## **Team Members**
+- **Gegë Dobruna**: [github.com/gegedobruna](https://github.com/gegedobruna)
+- **Hala Alakhras**: [github.com/halaalakhras](https://github.com/halaalakhras)
+- **Mariam Ustiashvili**: [github.com/ustachkaa](https://github.com/ustachkaa)
+
+---
 
 
 🎉 Enjoy the game and happy guessing! 🎥✨
