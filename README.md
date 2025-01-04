@@ -49,6 +49,7 @@ This bot was developed as part of a **Software Development Methodologies** class
 - **Gegë Dobruna**: [github.com/gegedobruna](https://github.com/gegedobruna)
 - **Hala Alakhras**: [github.com/halaalakhras](https://github.com/halaalakhras)
 - **Mariam Ustiashvili**: [github.com/ustachkaa](https://github.com/ustachkaa)
+- **Akuyo Oyundelger**: [github.com/Akuyo-Oyundelger](https://github.com/Akuyo-Oyundelger)
 
 ---
 
