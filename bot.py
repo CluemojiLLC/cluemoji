@@ -133,7 +133,7 @@ puzzles = [
     {"emoji": "🎲🐘🐍🏞️🌟", "answer": "Jumanji", "genre": "Adventure/Comedy"}
 ]
 
-# Leaderboard stored in memory (you can connect it to a database for persistence)
+# Leaderboard stored in memory 
 leaderboard = {}
 
 # Current game state
